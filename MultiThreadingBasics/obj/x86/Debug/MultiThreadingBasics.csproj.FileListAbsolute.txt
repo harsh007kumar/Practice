@@ -1,0 +1,5 @@
+/Users/harsh/Projects/Practice/MultiThreadingBasics/bin/Debug/MultiThreadingBasics.exe
+/Users/harsh/Projects/Practice/MultiThreadingBasics/bin/Debug/MultiThreadingBasics.pdb
+/Users/harsh/Projects/Practice/MultiThreadingBasics/obj/x86/Debug/MultiThreadingBasics.csproj.CoreCompileInputs.cache
+/Users/harsh/Projects/Practice/MultiThreadingBasics/obj/x86/Debug/MultiThreadingBasics.exe
+/Users/harsh/Projects/Practice/MultiThreadingBasics/obj/x86/Debug/MultiThreadingBasics.pdb

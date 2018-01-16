@@ -1,0 +1,5 @@
+/Users/harsh/Projects/Practice/SemaphoreBasics/bin/Debug/SemaphoreBasics.exe
+/Users/harsh/Projects/Practice/SemaphoreBasics/bin/Debug/SemaphoreBasics.pdb
+/Users/harsh/Projects/Practice/SemaphoreBasics/obj/x86/Debug/SemaphoreBasics.csproj.CoreCompileInputs.cache
+/Users/harsh/Projects/Practice/SemaphoreBasics/obj/x86/Debug/SemaphoreBasics.exe
+/Users/harsh/Projects/Practice/SemaphoreBasics/obj/x86/Debug/SemaphoreBasics.pdb

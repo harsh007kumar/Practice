@@ -1,0 +1,5 @@
+/Users/harsh/Projects/Practice/LockMonitorSynchronization_Basics/bin/Debug/LockMonitorSynchronization_Basics.exe
+/Users/harsh/Projects/Practice/LockMonitorSynchronization_Basics/bin/Debug/LockMonitorSynchronization_Basics.pdb
+/Users/harsh/Projects/Practice/LockMonitorSynchronization_Basics/obj/x86/Debug/LockMonitorSynchronization_Basics.csproj.CoreCompileInputs.cache
+/Users/harsh/Projects/Practice/LockMonitorSynchronization_Basics/obj/x86/Debug/LockMonitorSynchronization_Basics.exe
+/Users/harsh/Projects/Practice/LockMonitorSynchronization_Basics/obj/x86/Debug/LockMonitorSynchronization_Basics.pdb

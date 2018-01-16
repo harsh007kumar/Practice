@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{B8D7F7D3-9BAB-448D-B074-A99F57859DD7}|Default">
+  <MonoDevelop.Ide.ItemProperties.SemaphoreBasics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SemaphoreBasics/Program.cs">
+    <Files>
+      <File FileName="MultiThreadingBasics/Program.cs" Line="16" Column="47" />
+      <File FileName="MutexBasics/Program.cs" Line="39" Column="1" />
+      <File FileName="LockMonitorSynchronization_Basics/Program.cs" Line="84" Column="1" />
+      <File FileName="SemaphoreBasics/Program.cs" Line="5" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MutexBasics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.MultiThreadingBasics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LockMonitorSynchronization__Basics PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

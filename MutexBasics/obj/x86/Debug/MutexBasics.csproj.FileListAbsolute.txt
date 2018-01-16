@@ -1,0 +1,5 @@
+/Users/harsh/Projects/Practice/MutexBasics/bin/Debug/MutexBasics.exe
+/Users/harsh/Projects/Practice/MutexBasics/bin/Debug/MutexBasics.pdb
+/Users/harsh/Projects/Practice/MutexBasics/obj/x86/Debug/MutexBasics.csproj.CoreCompileInputs.cache
+/Users/harsh/Projects/Practice/MutexBasics/obj/x86/Debug/MutexBasics.exe
+/Users/harsh/Projects/Practice/MutexBasics/obj/x86/Debug/MutexBasics.pdb
