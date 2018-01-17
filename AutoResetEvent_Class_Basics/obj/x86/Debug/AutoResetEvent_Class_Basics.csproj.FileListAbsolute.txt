@@ -1,0 +1,5 @@
+/Users/harsh/Projects/Practice/AutoResetEvent_Class_Basics/bin/Debug/AutoResetEvent_Class_Basics.exe
+/Users/harsh/Projects/Practice/AutoResetEvent_Class_Basics/bin/Debug/AutoResetEvent_Class_Basics.pdb
+/Users/harsh/Projects/Practice/AutoResetEvent_Class_Basics/obj/x86/Debug/AutoResetEvent_Class_Basics.csproj.CoreCompileInputs.cache
+/Users/harsh/Projects/Practice/AutoResetEvent_Class_Basics/obj/x86/Debug/AutoResetEvent_Class_Basics.exe
+/Users/harsh/Projects/Practice/AutoResetEvent_Class_Basics/obj/x86/Debug/AutoResetEvent_Class_Basics.pdb
