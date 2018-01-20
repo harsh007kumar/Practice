@@ -1,22 +1,27 @@
-﻿<Properties StartupConfiguration="{180B5F42-3CDB-45B1-8DDD-412E3581D9AD}|Default">
+﻿<Properties StartupConfiguration="{F8709D26-568F-4696-AFDC-80E432D6BFDA}|Default">
   <MonoDevelop.Ide.ItemProperties.SemaphoreBasics PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AutoResetEvent_Class_Basics/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Await_Basics/Program.cs">
     <Files>
       <File FileName="MultiThreadingBasics/Program.cs" Line="16" Column="47" />
       <File FileName="MutexBasics/Program.cs" Line="39" Column="1" />
       <File FileName="LockMonitorSynchronization_Basics/Program.cs" Line="84" Column="1" />
       <File FileName="SemaphoreBasics/Program.cs" Line="5" Column="2" />
-      <File FileName="AutoResetEvent_Class_Basics/Program.cs" Line="31" Column="42" />
+      <File FileName="AutoResetEvent_Class_Basics/Program.cs" Line="16" Column="34" />
+      <File FileName="Await_Basics/Program.cs" Line="14" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.MutexBasics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.ItemProperties.MultiThreadingBasics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/harsh/Projects/Practice/Await_Basics/Program.cs" relfile="Await_Basics/Program.cs" line="10" column="1" />
+      <Breakpoint file="/Users/harsh/Projects/Practice/Await_Basics/Program.cs" relfile="Await_Basics/Program.cs" line="14" column="20" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.AutoResetEvent__Class__Basics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.LockMonitorSynchronization__Basics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Await__Basics PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

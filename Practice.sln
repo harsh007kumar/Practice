@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoreBasics", "Semaphor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoResetEvent_Class_Basics", "AutoResetEvent_Class_Basics\AutoResetEvent_Class_Basics.csproj", "{180B5F42-3CDB-45B1-8DDD-412E3581D9AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Await_Basics", "Await_Basics\Await_Basics.csproj", "{F8709D26-568F-4696-AFDC-80E432D6BFDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,5 +39,9 @@ Global
 		{180B5F42-3CDB-45B1-8DDD-412E3581D9AD}.Debug|x86.Build.0 = Debug|x86
 		{180B5F42-3CDB-45B1-8DDD-412E3581D9AD}.Release|x86.ActiveCfg = Release|x86
 		{180B5F42-3CDB-45B1-8DDD-412E3581D9AD}.Release|x86.Build.0 = Release|x86
+		{F8709D26-568F-4696-AFDC-80E432D6BFDA}.Debug|x86.ActiveCfg = Debug|x86
+		{F8709D26-568F-4696-AFDC-80E432D6BFDA}.Debug|x86.Build.0 = Debug|x86
+		{F8709D26-568F-4696-AFDC-80E432D6BFDA}.Release|x86.ActiveCfg = Release|x86
+		{F8709D26-568F-4696-AFDC-80E432D6BFDA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

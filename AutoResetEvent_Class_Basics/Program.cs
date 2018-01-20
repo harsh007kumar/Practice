@@ -13,7 +13,7 @@ namespace AutoResetEvent_Class_Basics
             for (int x = 1; x < 6; x++)
             {
                 Thread t = new Thread(new ThreadStart(letsPlayWithThreads));
-                t.Name = "Thread" + x;
+                t.Name = "Thread " + x;
                 t.Start();
             }
             for (int y = 1; y < 5; y++)
